@@ -93,7 +93,7 @@ function login () {
   alert('User Logged In!! Redirecting Now!');
    setTimeout(function(){
     
-      window.location.replace("dixonsmentalhealth.co.uk/staff/portal");
+      window.location.replace("https://dixonsmentalhealth.co.uk/staff/portal");
 }, 1000);
     
    
